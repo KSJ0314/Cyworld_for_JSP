@@ -49,7 +49,7 @@ Flex를 이용한 CSS 레이아웃을 구성했습니다.
 
 ### 2. 미니홈피 (home.jsp)
 
-![](https://velog.velcdn.com/images/ksj0314/post/f5a90390-99b6-4c8b-a593-3e240fec9012/image.png)
+![](https://velog.velcdn.com/images/ksj0314/post/7c9b40fb-19f3-47a9-bebe-c7e911e56b37/image.png)
 
 #### 1) 로그인 체크와 데이터 획득
 
@@ -118,7 +118,7 @@ YouTube API를 사용하면 웹 페이지에 YouTube 동영상을 추가할 수 
 
 [>> YouTube API 참조](https://developers.google.com/youtube/iframe_api_reference?hl=ko)
 
-![](https://velog.velcdn.com/images/ksj0314/post/873f138f-cfb3-43b3-84df-5286471edd16/image.png)
+![](https://velog.velcdn.com/images/ksj0314/post/bda67cac-bb26-446d-bd01-d77ea22ac113/image.png)
 
 
 홈피 주인은 곡 추가 버튼을 통해 배경음악을 추가할 수 있고<br/>
@@ -133,7 +133,7 @@ YouTube API는 `7rX3WTAeArY`와 같은 코드를 이용해 영상을 재생하�
 
 위와 같이 코드만 추출하여 DB에 저장하는 형식으로 구현이 가능합니다.
 
-![](https://velog.velcdn.com/images/ksj0314/post/cae1e396-5b3a-42e0-9955-fff4babbae5c/image.png)
+![](https://velog.velcdn.com/images/ksj0314/post/c1f14cff-3260-49e6-adc1-a0e8438118bc/image.png)
 
 메인페이지에서 등록된 음악이 재생되며 재생, 다음곡, 일시정지, 리스트 버튼이 제공됩니다.<br/>
 리스트를 확장하면 특정 곡 재생이 가능합니다.
