@@ -45,7 +45,7 @@ Flex를 이용한 CSS 레이아웃을 구성했습니다.
 
 회원 관리를 위한 로직은 `MemberServlet.java`에서 관리됩니다.
 
-[>> MemberServlet.java 자세히 보기](#)
+[>> MemberServlet.java 자세히 보기](https://github.com/KSJ0314/Cyworld_for_JSP/blob/main/cyworld/src/controller/MemberServlet.java)
 
 ### 2. 미니홈피 (home.jsp)
 
@@ -82,7 +82,7 @@ Filter는 View의 경로로 이동하는 경우에 먼저 실행되는 파일입
 
 방명록, 사진첩등 홈피에서 이루어지는 로직은 `HomeServlet.java`에서 관리됩니다.
 
-[>> HomeServlet.java 자세히 보기](#)
+[>> HomeServlet.java 자세히 보기](https://github.com/KSJ0314/Cyworld_for_JSP/blob/main/cyworld/src/controller/HomeServlet.java)
 
 #### 1) 사진첩
 
