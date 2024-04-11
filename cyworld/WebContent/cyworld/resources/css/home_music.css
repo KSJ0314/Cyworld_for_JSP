@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+border{
+	border: 1px solid #636363;
+}
+
+#mu_title{
+	padding: 2px 0;
+	background-color: #F5F5F5;
+	border-top: 1px solid #ABABAB;
+	border-bottom: 1px dotted #ABABAB;
+}
+
+#mu_list{
+	padding: 2px 0;
+	border-bottom: 1px dotted #ABABAB;
+}
+
+#break_line{
+	color: #C5C5C5;
+}

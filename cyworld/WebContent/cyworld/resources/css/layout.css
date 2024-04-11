@@ -1,0 +1,354 @@
+@charset "UTF-8";
+
+.flex{
+	display: flex;
+}
+
+.flex-jus-center{
+	justify-content:center;
+}
+
+.flex-jus-end{
+	justify-content:end;
+}
+
+.flex-ali-center{
+	align-items:center;
+	align-content: center;
+}
+
+.flex-center{
+	justify-content:center;
+	align-items:center;
+}
+
+.flex-column{
+	flex-direction: column;
+}
+
+.flex-between{
+	justify-content: space-between;
+}
+
+.flex-around{
+	justify-content: space-around;
+}
+
+.flex-evenly{
+	justify-content: space-evenly;
+}
+
+.flex-shrink{
+	flex-shrink: 0;	
+}
+
+footer{
+	margin-top: 40px;
+	font-size: 1.1em;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.wid-5{
+	width: 5%;
+}
+
+.wid-7_5{
+	width: 7.5%;
+}
+
+.wid-15{
+	width: 15%;
+}
+
+.wid-18{
+	width: 18%;
+}
+
+.wid-20{
+	width: 20%;
+}
+
+.wid-23{
+	width: 23%;
+}
+
+.wid-25{
+	width: 25%;
+}
+
+.wid-30{
+	width: 30%;
+}
+
+.wid-35{
+	width: 35%;
+}
+
+.wid-40{
+	width: 40%;
+}
+
+.wid-44{
+	width: 44%;
+}
+
+.wid-45{
+	width: 45%;
+}
+
+.wid-50{
+	width: 50%;
+}
+
+.wid-53{
+	width: 53%;
+}
+
+.wid-55{
+	width: 55%;
+}
+
+.wid-60{
+	width: 60%;
+}
+
+.wid-65{
+	width: 65%;
+}
+
+.wid-70{
+	width: 70%;
+}
+
+.wid-75{
+	width: 75%;
+}
+
+.wid-80{
+	width: 80%;
+}
+
+.wid-82{
+	width: 82%;
+}
+
+.wid-85{
+	width: 85%;
+}
+
+.wid-88{
+	width: 88%;
+}
+
+.wid-90{
+	width: 90%;
+}
+
+.wid-91{
+	width: 91%;
+}
+
+.wid-92{
+	width: 92%;
+}
+
+.wid-100{
+	width: 100%;
+}
+
+.hei-5{
+	height: 5%;
+}
+
+.hei-6{
+	height: 6%;
+}
+
+.hei-7{
+	height: 7%;
+}
+
+.hei-9{
+	height: 9%;
+}
+
+.hei-10{
+	height: 10%;
+}
+
+.hei-11{
+	height: 11%;
+}
+
+.hei-12{
+	height: 12%;
+}
+
+.hei-13{
+	height: 13%;
+}
+
+.hei-15{
+	height: 15%;
+}
+
+.hei-18{
+	height: 18%;
+}
+
+.hei-20{
+	height: 20%;
+}
+
+.hei-23{
+	height: 23%;
+}
+
+.hei-25{
+	height: 25%;
+}
+
+.hei-30{
+	height: 30%;
+}
+
+.hei-35{
+	height: 35%;
+}
+
+.hei-40{
+	height: 40%;
+}
+
+.hei-45{
+	height: 45%;
+}
+
+.hei-50{
+	height: 50%;
+}
+
+.hei-55{
+	height: 55%;
+}
+
+.hei-60{
+	height: 60%;
+}
+
+.hei-70{
+	height: 70%;
+}
+
+.hei-72{
+	height: 72%;
+}
+
+.hei-75{
+	height: 75%;
+}
+
+.hei-79{
+	height: 79%;
+}
+
+.hei-80{
+	height: 80%;
+}
+
+.hei-82{
+	height: 82%;
+}
+
+.hei-85{
+	height: 85%;
+}
+
+.hei-88{
+	height: 88%;
+}
+
+.hei-90{
+	height: 90%;
+}
+
+.hei-100{
+	height: 100%;
+}
+
+.hei-80vh{
+	height:80vh;
+}
+
+.hei-max{
+	height:100vh;
+}
+
+.margin-auto{
+	margin: auto;
+}
+
+.pad-10{
+	padding: 10px;
+}
+
+.mar-5_0{
+	margin: 5px 0;
+}
+
+.back-aqua{
+	background-color: aqua;
+}
+
+.back-white{
+	background-color: white;
+}
+
+.back-gray{
+	background-color: lightgray;
+}
+
+.font-07{
+	font-size: 0.7em;
+}
+
+.font-08{
+	font-size: 0.8em;
+}
+
+.font-09{
+	font-size: 0.9em;
+}
+
+.font-12{
+	font-size: 1.2em;
+}
+
+.line-10{
+	line-height: 1.0em;
+}
+
+.line-15{
+	line-height: 1.5em;
+}
+
+.line-17{
+	line-height: 1.7em;
+}
+
+.line-20{
+	line-height: 2.0em;
+}
+
+.line-25{
+	line-height: 2.5em;
+}
+
+

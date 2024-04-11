@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+form{
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 300px;
+}
+
+form div{
+	display:flex;
+	justify-content: space-between;
+	margin: 10px;
+}
+
+.addMessage{
+	font-size: 0.8em;
+	margin-top:5px;
+	width: 300px;
+}
+
+input[type=submit]{
+	padding: 5px 10px;
+}
+
+#error {
+	font-size: 0.8em;
+	color: red;
+}

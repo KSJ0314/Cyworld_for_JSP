@@ -1,0 +1,40 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+body{
+	height:100vh;
+}
+
+.welcome{
+	font-weight: normal;
+	line-height: 4em;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: orange;
+}
+
+.gray {
+	color: gray;
+	fill: gray;
+}
+
+.point{
+	color: blue;
+}
+
+.logo{
+	width: 200px;
+}
+
+
+

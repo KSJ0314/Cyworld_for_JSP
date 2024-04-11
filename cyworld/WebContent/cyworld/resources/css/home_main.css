@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.right-box-content{
+	border-top: 1px solid black;
+	margin-bottom: 4px;
+}
+
+.menuBox{
+	border-left: 1px solid black;
+}
+
+.menu{
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	padding: 2px;
+	width: 100px;
+}
+
+.videoWrapper{
+	height: 17px;
+	position: relative;
+}
+
+#musicBtn, #musicList{
+	z-index: 4;
+}
+
+#musicBtn:hover{
+	filter: brightness(70%);
+}
+
+#bgmTitle, #title{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#music_select{
+	display: none;
+    position: absolute;
+    left: -155px;
+    top: 17px;
+    width: 350px;
+    background-color: #EEEEEE;
+    border: 1px solid black;
+    z-index: 3;
+    border: 3px inset skyblue;
+}
