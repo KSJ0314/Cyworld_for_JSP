@@ -53,7 +53,7 @@ Flex를 이용한 CSS 레이아웃을 구성했습니다.
 
 #### 1) 로그인 체크와 데이터 획득
 
-홈피는 회원만 접근이 가능한 페이지입니다.
+홈피는 회원만 접근이 가능한 페이지입니다.<br/>
 session에 등록된 로그인 정보를 확인하여 로그인되지 않은 경우 안내창을 출력합니다.
 
 ![](https://velog.velcdn.com/images/ksj0314/post/325692f2-9c90-4b61-b493-5b71d8bd69f3/image.png)
@@ -63,7 +63,7 @@ session에 등록된 로그인 정보를 확인하여 로그인되지 않은 경
 > Filter는 특정 경로로 접속 시 먼저 실행되는 파일입니다.
 
 ※ Servlet과의 차이
-: Servlet은 Servlet의 경로로 이동할 경우 Servlet으로 접속된 후 Servlet에서 알맞은 View의 경로로 이동되고
+: Servlet은 Servlet의 경로로 이동할 경우 Servlet으로 접속된 후 Servlet에서 알맞은 View의 경로로 이동되고<br/>
 Filter는 View의 경로로 이동하는 경우에 먼저 실행되는 파일입니다.
 
 ![](https://velog.velcdn.com/images/ksj0314/post/9bc6622b-a72b-4301-bda2-55755fdbad50/image.png)
@@ -113,7 +113,7 @@ Filter는 View의 경로로 이동하는 경우에 먼저 실행되는 파일입
 
 YouTube API를 이용한 배경음악 시스템입니다.
 
-YouTube API를 사용하면 웹 페이지에 YouTube 동영상을 추가할 수 있습니다.
+YouTube API를 사용하면 웹 페이지에 YouTube 동영상을 추가할 수 있습니다.<br/>
 영상이 출력되는 영역을 화면에서 가리고 영상 컨트롤 버튼만 따로 만들어 음악이 재생되는것 처럼 연출했습니다.
 
 [>> YouTube API 참조](https://developers.google.com/youtube/iframe_api_reference?hl=ko)
@@ -121,10 +121,10 @@ YouTube API를 사용하면 웹 페이지에 YouTube 동영상을 추가할 수 
 ![](https://velog.velcdn.com/images/ksj0314/post/873f138f-cfb3-43b3-84df-5286471edd16/image.png)
 
 
-홈피 주인은 곡 추가 버튼을 통해 배경음악을 추가할 수 있고
+홈피 주인은 곡 추가 버튼을 통해 배경음악을 추가할 수 있고<br/>
 체크 버튼을 통해 메인페이지에서 재생될 음악을 고를 수 있습니다.
 
-YouTube의 링크는 `https://www.youtube.com/watch?v=7rX3WTAeArY`
+YouTube의 링크는 `https://www.youtube.com/watch?v=7rX3WTAeArY`<br/>
 위와 같은 형식으로 이루어져있습니다.
 
 YouTube API는 `7rX3WTAeArY`와 같은 코드를 이용해 영상을 재생하는 방식입니다.
@@ -135,7 +135,7 @@ YouTube API는 `7rX3WTAeArY`와 같은 코드를 이용해 영상을 재생하�
 
 ![](https://velog.velcdn.com/images/ksj0314/post/cae1e396-5b3a-42e0-9955-fff4babbae5c/image.png)
 
-메인페이지에서 등록된 음악이 재생되며 재생, 다음곡, 일시정지, 리스트 버튼이 제공됩니다.
+메인페이지에서 등록된 음악이 재생되며 재생, 다음곡, 일시정지, 리스트 버튼이 제공됩니다.<br/>
 리스트를 확장하면 특정 곡 재생이 가능합니다.
 
 ![](https://velog.velcdn.com/images/ksj0314/post/d5867e0d-9454-4731-b16c-043ec30e5417/image.png)
@@ -148,7 +148,7 @@ YouTube API는 `7rX3WTAeArY`와 같은 코드를 이용해 영상을 재생하�
 
 ![](https://velog.velcdn.com/images/ksj0314/post/07d59041-81ba-4644-a8de-5c367a82e6ae/image.png)
 
-수많은 영역에 클래스나 아이디를 두고 flex설정을 하기엔 코드가 길어져
+수많은 영역에 클래스나 아이디를 두고 flex설정을 하기엔 코드가 길어져<br/>
 위와 같이 모든 페이지에서 사용되는 `layout.css`에서 간단한 클래스들을 만들어 필요한 영역에 클래스를 추가하는 방식으로 레이아웃이 구성됩니다.
 
 세세한 css설정이 필요한 영역은 각 페이지의 CSS파일에서 작성했습니다.
